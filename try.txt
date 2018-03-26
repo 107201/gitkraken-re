@@ -1,2 +1,2 @@
 head
-yellow cloth
+green cloth
